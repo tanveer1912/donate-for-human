@@ -1,0 +1,43 @@
+body {
+    font-family: 'Poppins',
+        sans-serif;
+}
+
+#container {
+    background-image: linear-gradient(rgba(36, 35, 35, 0.5), #5d7c7b), url(images/donation2.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 650px;
+
+}
+
+h1 {
+    text-align: center;
+    font-size: 60px;
+    color: white;
+    padding-top: 95px;
+}
+
+p {
+    color: white;
+    text-align: center;
+    margin-bottom: 30px;
+
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(salmon, tomato);
+    margin-left: 45%;
+    padding-left: 18px;
+    padding-right: 18px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    border-radius: 8px;
+    color: white;
+
+
+
+
+
+}
