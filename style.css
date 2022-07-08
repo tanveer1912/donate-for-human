@@ -3,7 +3,7 @@ body {
         sans-serif;
 }
 
-#container {
+.container {
     background-image: linear-gradient(rgba(36, 35, 35, 0.5), #5d7c7b), url(images/donation2.jpg);
     background-size: cover;
     background-position: center;
