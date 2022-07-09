@@ -135,7 +135,7 @@ body {
 .donation-plan {
     display: flex;
     width: 100%;
-    margin-bottom: 10%;
+    margin-bottom: 12%;
 
 }
 
@@ -168,4 +168,37 @@ body {
     padding-bottom: 40px;
     padding-right: 15px;
     border-radius: 10px;
+}
+
+.supplies {
+    display: flex;
+    margin-left: 7%;
+    margin-right: 38%;
+
+}
+
+.children {
+    width: 45%;
+    padding-left: 5%;
+
+}
+
+.children img {
+    height: 45%;
+
+
+}
+
+
+#link-button {
+    text-decoration: none;
+    background-image: linear-gradient(salmon, tomato);
+    margin-left: 0%;
+
+    padding-left: 18px;
+    padding-right: 18px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    border-radius: 8px;
+    color: white;
 }
