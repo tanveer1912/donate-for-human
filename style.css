@@ -13,14 +13,14 @@ body {
 
 }
 
-h1 {
+.container h1 {
     text-align: center;
     font-size: 60px;
     color: white;
     padding-top: 95px;
 }
 
-p {
+.container p {
     color: white;
     text-align: center;
     margin-bottom: 30px;
@@ -37,9 +37,91 @@ p {
     padding-bottom: 12px;
     border-radius: 8px;
     color: white;
+}
+
+.header h2 {
+    text-align: center;
+    color: black;
+    font-weight: bolder;
+    font-size: 45px;
+}
 
 
 
+.header p {
+    color: black;
+    text-align: center;
+}
+
+.flexible {
+    display: flex;
+    margin-left: 25%;
+    margin-top: 50px;
+    font-weight: bolder;
+    font-size: 18px;
+    margin-bottom: 5%;
+
+}
+
+.amount1 {
+    width: 10%;
+    background-color: antiquewhite;
+    padding-left: 30px;
+    border-radius: 10px;
+    margin-right: 10px;
+}
+
+.amount2 {
+    width: 10%;
+    background-color: antiquewhite;
+    padding-left: 30px;
+    border-radius: 10px;
+    margin-right: 10px;
+}
+
+.amount3 {
+    width: 10%;
+    background-color: antiquewhite;
+    padding-left: 30px;
+    border-radius: 10px;
+    margin-right: 10px;
+    color: red;
+    border: solid red;
+    border-width: 2px;
+}
+
+.amount4 {
+    width: 10%;
+    background-color: antiquewhite;
+    padding-left: 30px;
+    border-radius: 10px;
+    margin-right: 10px;
+    padding-right: 10px;
+}
+
+.amount5 {
+    width: 10%;
+    background-color: antiquewhite;
+    padding-left: 30px;
+    border-radius: 10px;
+    margin-right: 10px;
+    padding-right: 20px;
+}
+
+.other-amount {
+    text-align: center;
+    color: burlywood;
 
 
+}
+
+#horizontal {
+    margin-left: 25%;
+    margin-right: 20.5%;
+    margin-bottom: 3%;
+
+}
+
+.our-donate {
+    text-align: center;
 }
