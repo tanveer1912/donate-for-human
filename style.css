@@ -1,6 +1,7 @@
 body {
     font-family: 'Poppins',
         sans-serif;
+    margin: 0%;
 }
 
 .container {
@@ -173,7 +174,8 @@ body {
 .supplies {
     display: flex;
     margin-left: 7%;
-    margin-right: 38%;
+    margin-right: 39%;
+    padding-bottom: 30px;
 
 }
 
@@ -184,7 +186,8 @@ body {
 }
 
 .children img {
-    height: 45%;
+
+    width: 750px;
 
 
 }
@@ -194,11 +197,57 @@ body {
     text-decoration: none;
     background-image: linear-gradient(salmon, tomato);
     margin-left: 0%;
-
     padding-left: 18px;
     padding-right: 18px;
     padding-top: 12px;
     padding-bottom: 12px;
     border-radius: 8px;
     color: white;
+}
+
+.update {
+    margin-top: 6%;
+    text-align: center;
+}
+
+.update h1 {
+    font-size: 40px;
+
+}
+
+.box {
+    display: flex;
+    margin-left: 35%;
+
+
+
+}
+
+.form-box {
+    border: solid navajowhite 50px;
+    border-radius: 10px;
+    margin-bottom: 130px;
+
+}
+
+.footer {
+    text-align: center;
+    background-color: black;
+    padding-bottom: 45px;
+    padding-top: 45px;
+
+}
+
+
+#humble {
+
+    color: salmon;
+    font-style: italic;
+    font-weight: 600;
+    font-size: 30px;
+
+}
+
+span {
+    color: antiquewhite;
 }
