@@ -131,3 +131,41 @@ body {
     font-size: 45px;
     margin-top: 8%;
 }
+
+.donation-plan {
+    display: flex;
+    width: 100%;
+    margin-bottom: 10%;
+
+}
+
+.food1 {
+    background-color: aquamarine;
+    margin-left: 10%;
+    padding-left: 20px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-right: 15px;
+    border-radius: 10px;
+}
+
+.food2 {
+    background-color: bisque;
+    margin-left: 3%;
+    padding-left: 20px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-right: 15px;
+    border-radius: 10px;
+}
+
+.food3 {
+    background-color: burlywood;
+    margin-left: 3%;
+    margin-right: 10%;
+    padding-left: 20px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-right: 15px;
+    border-radius: 10px;
+}
